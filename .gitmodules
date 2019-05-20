@@ -1,0 +1,3 @@
+[submodule ".\\TIDALDL-UI\\AIGS"]
+	path = .\\TIDALDL-UI\\AIGS
+	url = https://github.com/luuray/AIGS.git
